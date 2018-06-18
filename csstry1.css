@@ -17,11 +17,11 @@ p{
 
 .group-heading{ 
     color: #4cff00 !important;
-    text-decoration: underline;
+    text-decoration: none !important;
 }
 
 .hd,hd-2,unit-title{
     color: white; 
-    background-color: black;
+    background-color: blue;
 }
 
