@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Assistant');
+p,div,ul,lable,h1,h2,h3,h4,h5,h6,h7,problem,choicegroup,choice,label {
+ font-family: 'Assistant', sans-serif !important;
+ direction: rtl;
+}
+.runText {
+ font-size: 13pt; 
+ text-align: right; 
+}
+
+
