@@ -4,22 +4,24 @@ p,div,ul,lable,h1,h2,h3,h4,h5,h6,h7,problem,choicegroup,choice,label {
  direction: rtl;
 }
 //*כותרות*//
+
 .gH1{
- font-size: 18pt !important;
- font-weight: bold !important;
+ font-size: 18pt;
+ font-weight: bold;
 }
 .gH2{
- font-size: 16pt !important;
- font-weight: bold !important;
+ font-size: 16pt;
+ font-weight: bold;
 }
 .gH3{
- font-size: 14pt !important;
- font-weight: bold !important;
+ font-size: 14pt;
+ font-weight: bold;
 }
 //*טקסט רץ*//
 .runText {
- font-size: 13pt !important; 
- text-align: right !important; 
+ font-size: 13pt;
+ text-align: right;
+ color:red;
 }
 
 
