@@ -5,21 +5,21 @@ p,div,ul,lable,h1,h2,h3,h4,h5,h6,h7,problem,choicegroup,choice,label {
 }
 //*כותרות*//
 .gH1{
- font-size: 18pt; 
- font-weight: bold;
+ font-size: 18pt !important;
+ font-weight: bold !important;
 }
 .gH2{
- font-size: 16pt; 
- font-weight: bold;
+ font-size: 16pt !important;
+ font-weight: bold !important;
 }
 .gH3{
- font-size: 14pt;
- font-weight: bold;
+ font-size: 14pt !important;
+ font-weight: bold !important;
 }
 //*טקסט רץ*//
 .runText {
- font-size: 13pt; 
- text-align: right; 
+ font-size: 13pt !important; 
+ text-align: right !important; 
 }
 
 
