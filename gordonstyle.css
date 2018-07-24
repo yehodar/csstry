@@ -24,15 +24,18 @@ p,div,ul,lable,h1,h2,h3,h4,h5,h6,h7,problem,choicegroup,choice,label {
 }
 
 //*רכיב טקסט עם תמונה בצד*//
-.regTextDiv_Right{
- width: 470px; height: 600px;
- display: inline-block !important;
+.regTextDiv_txtAndPic {
+   display: -webkit-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+ 
 }
-.regTextDiv_Left{
- width: 350px; height: 600px;
- display: inline-block;
-}
-.regTextDiv_Left img{
- width: 100%; height: 100%;
-}
+   .regTextDiv_txtAndPic p{
+       width: 470px; height: 600px;
+       margin-left: 20px;
+       
+   }
+   .regTextDiv_txtAndPic img{
+       width: 350px; height: 600px;
+   }
 
