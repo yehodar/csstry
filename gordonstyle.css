@@ -5,9 +5,10 @@ p,div,ul,lable,h1,h2,h3,h4,h5,h6,h7,problem,choicegroup,choice,label {
 }
 
 
-.gH1{
+.tryggg{
  font-size: 18pt;
  font-weight: bold;
+ color: red;
 }
 .gH2{
  font-size: 16pt;
