@@ -21,7 +21,7 @@ p,div,ul,lable,h1,h2,h3,h4,h5,h6,h7,problem,choicegroup,choice,label {
 .runText {
  font-size: 13pt;
  text-align: right;
- color:red;
+ color:red !important;
 }
 
 
